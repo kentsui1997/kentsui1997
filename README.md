@@ -1,6 +1,6 @@
 ### Hi there, I'm Ken.👋
 
-I'm currently working at GTI as Soultion Consultant.
+I'm currently working at Microsoft as Technical Specialist (Azure).
 
 <!--
 **kentsui1997/kentsui1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
